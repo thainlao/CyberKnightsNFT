@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2a6eafb7.css",
+    "main.js": "/static/js/main.7da6b3f5.js",
+    "static/media/robot2.png": "/static/media/robot2.855debca8b59fff8443c.png",
+    "static/media/robot4.png": "/static/media/robot4.838e4f4677a1155e2156.png",
+    "static/media/robot1.png": "/static/media/robot1.42830c3de90139d0c001.png",
+    "static/media/robot3.png": "/static/media/robot3.de25bca0959113f6e830.png",
+    "static/media/robot5.png": "/static/media/robot5.fcc8285e656bc9dfa3d7.png",
+    "static/media/robot7.png": "/static/media/robot7.e2c4da918f2503ee877b.png",
+    "static/media/robot8.png": "/static/media/robot8.805887a2d78f2f0137e7.png",
+    "static/media/robot6.png": "/static/media/robot6.59083363250aebdc07d2.png",
+    "static/media/bg4.jpg": "/static/media/bg4.7cc2a36e5fc4eed67da8.jpg",
+    "static/media/My_Coin (2).gif": "/static/media/My_Coin (2).54424966d73110ba02c9.gif",
+    "static/media/Hacked Cyr.ttf": "/static/media/Hacked Cyr.42fadd1830398765d840.ttf",
+    "index.html": "/index.html",
+    "main.2a6eafb7.css.map": "/static/css/main.2a6eafb7.css.map",
+    "main.7da6b3f5.js.map": "/static/js/main.7da6b3f5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a6eafb7.css",
+    "static/js/main.7da6b3f5.js"
+  ]
+}
